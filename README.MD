@@ -1,5 +1,5 @@
 # Tic Tac Toe Game in Pygame
-[image](https://github.com/oscarNCC/Tic-Tac-Toe-Game-w-Minimax-algorithm/blob/main/Screenshot.png)
+![image](https://github.com/oscarNCC/Tic-Tac-Toe-Game-w-Minimax-algorithm/blob/main/Screenshot.png)
 This project is a simple implementation of the classic game Tic Tac Toe using Pygame. The game allows for a single player to play against an AI, which makes its moves based on the minimax algorithm with alpha-beta pruning for optimization. The GUI is created using Pygame, providing a visual interface for the game board and handling user interactions through mouse clicks.
 
 ## Features
